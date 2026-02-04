@@ -11,6 +11,7 @@ function Characters() {
           <h5>Name: _______ </h5>
           <p>Description: ________</p>
 
+          <button>Add to Favourite</button>
           
         </div>
 
